@@ -23,7 +23,7 @@ This project demonstrates a simple decentralized application (DApp) that allows 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zakialmarzan/TM_SimpleChain.git
+   git clone https://github.com/Xen0cryst/TM_SimpleChain.git
 ## Smart Contract
 
 - The smart contract (storage.sol) is a basic example allowing users to set and get values on the blockchain.
